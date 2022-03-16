@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(204, 235, 255);
+}
+.fruits{
+    text-align: center;
+    font-size: medium;
+    font-weight: bold;
+    color: rgb(16, 2, 163);
+}
+#topic{
+    font-size: larger;
+    font-weight: bolder;
+    color: rgb(15, 13, 155);
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
